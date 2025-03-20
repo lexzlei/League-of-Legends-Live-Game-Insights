@@ -8,7 +8,7 @@ from pyfiglet import Figlet
 # U.S.A
 
 # Constants
-API_KEY = 'RGAPI-b12d0f41-21ee-4ae9-8cc2-1007e966fb58' # Riot Games API Key
+API_KEY = # Riot Games API Key
 CLIENT_VER = "13.24.1" # League of Legends Client version
 RESPONSE_ERRORS = { # Dictionary mapping HTTP response codes to error descriptions
     400: 'Bad Request', 401: 'Unauthorized', 403: 'Forbidden',
